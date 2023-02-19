@@ -6,9 +6,12 @@
 
 <p align="justify">
 
-    Projeto desenvolvido para a disciplina de Programação Web I do curso de Análise e Desenvolvimento de Sistemas. O Planet Music é um site genérico de músicas, que apresenta vários gêneros musicais e muitas músicas para ouvir de onde quiser. 
+    Projeto desenvolvido para a disciplina de Programação Web I do curso de Análise e Desenvolvimento de 
+    Sistemas. O Planet Music é um site genérico de músicas, que apresenta vários gêneros musicais e muitas
+     músicas para ouvir de onde quiser. 
     
-    A proposta era de criar um site que apresentasse 10 gêneros musicais diferentes, e para cada gênero exemplos de músicas com informações de autor, ano de lançamento, imagens da banda e etc. 
+    A proposta era de criar um site que apresentasse 10 gêneros musicais diferentes, e para cada gênero 
+    exemplos de músicas com informações de autor, ano de lançamento, imagens da banda e etc. 
 
 </p>
 
