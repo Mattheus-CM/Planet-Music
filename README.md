@@ -15,7 +15,7 @@
 
 ## Ferramentas utilizadas
 
-<img src="https://icons8.com/icon/20909/html-5" alt="html" width="40" height="40"><img src="https://icons8.com/icon/21278/css3" alt="css" width="40" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="bulma" width="40" height="40">
 
 
 ## Acesso ao projeto
