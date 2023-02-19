@@ -37,5 +37,8 @@ Após realizar o download do projeto, você pode abri-lo no `Visual Studio Code`
 
 ## Desenvolvedores
 
-| [<img src="https://avatars.githubusercontent.com/u/109044720?v=4" width=115><br><sub>Carlos Roberto</sub>](https://github.com/CarlosRLacerda/) | [<img src="https://avatars.githubusercontent.com/u/108010754?v=4" width=115><br><sub>Luis Fernando</sub>](https://github.com/Lufernando301/) | [<img src="https://avatars.githubusercontent.com/u/96598307?v=4" width=115><br><sub>Mattheus Martins</sub>](https://github.com/Mattheus-CM/) |
-| :---: | :---: 
+
+
+
+| [<img src="https://avatars.githubusercontent.com/u/109044720?v=4" width=115><br><sub>Carlos Roberto</sub>](https://github.com/CarlosRLacerda/) |  [<img src="https://avatars.githubusercontent.com/u/108010754?v=4" width=115><br><sub>Luis Fernando</sub>](https://github.com/Lufernando301/)  | [<img src="https://avatars.githubusercontent.com/u/96598307?v=4" width=115><br><sub>Mattheus Martins</sub>](https://github.com/Mattheus-CM/) |
+| :---: | :---: | :---:
